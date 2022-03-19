@@ -62,6 +62,30 @@ Adicionando uma imagem:
 
 ![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
 
+## Listas com marcadores
+
+```
+- Item 01
+- Item 02
+- Item 03
+```
+
+- Item 01
+- Item 02
+- Item 03
+
+## Listas com numeradores
+
+```
+1. Item 01
+2. Item 02
+3. Item 03
+```
+
+1. Item 01
+2. Item 02
+3. Item 03
+
 ## Listas de Tarefas
 
 ```
