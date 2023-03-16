@@ -1,4 +1,4 @@
-# Sintaxe básica de escrita e formatação no GitHub
+# Sintaxe básica de escrita e formatação no README.md
 Dicas de Sintaxe básica de escrita e formatação em arquivos .md no GitHub
 
 <!-- comentários ocultos -->
