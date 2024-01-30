@@ -98,6 +98,20 @@ Adicionando uma imagem:
 - [ ] Tarefa 02
 - [ ] Tarefa 03
 
+## Tabelas
+
+```
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+```
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 ## 
 **Por enquanto é só, espero que ajude!**
 
