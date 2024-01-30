@@ -100,6 +100,8 @@ Adicionando uma imagem:
 
 ## Tabelas
 
+Com cabeçalho:
+
 ```
 | First Header  | Second Header |
 | ------------- | ------------- |
@@ -109,6 +111,20 @@ Adicionando uma imagem:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+Sem cabeçalho:
+
+```
+| | |
+| --- | --- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+```
+
+| | |
+| --- | --- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
